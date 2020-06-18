@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resources/Toggle Off_16px.png</file>
+    <file>resources/Toggle On_16px.png</file>
+    <file>resources/Note_48px.png</file>
+    <file>resources/Books_48px.png</file>
+    <file>resources/About_16px.png</file>
+    <file>resources/Add File_16px.png</file>
+    <file>resources/Decrease Font_16px.png</file>
+    <file>resources/Exit_16px.png</file>
+    <file>resources/Increase Font_16px.png</file>
+    <file>resources/Open_16px.png</file>
+    <file>resources/Save as_16px.png</file>
+    <file>resources/Save_16px.png</file>
+    <file>resources/Text Color_16px.png</file>
+    <file>resources/Typography_16px.png</file>
+  </qresource>
+</RCC>
